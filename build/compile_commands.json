@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ahmed/projects/mathic/build/test",
+  "command": "/usr/bin/c++   -I/home/ahmed/projects/mathic/include   -std=c++11 -Wall -Wextra   -o CMakeFiles/test_mathic.dir/test.cpp.o -c /home/ahmed/projects/mathic/test/test.cpp",
+  "file": "/home/ahmed/projects/mathic/test/test.cpp"
+}
+]
